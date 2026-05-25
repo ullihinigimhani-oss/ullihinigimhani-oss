@@ -30,6 +30,8 @@ IT Undergraduate | Full Stack Developer | UI/UX Enthusiast
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -44,7 +46,11 @@ IT Undergraduate | Full Stack Developer | UI/UX Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullihinigimhani-oss&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ullihinigimhani-oss&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullihinigimhani-oss&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -52,7 +58,7 @@ IT Undergraduate | Full Stack Developer | UI/UX Enthusiast
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ullihinigimhani-oss&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ullihinigimhani-oss&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -73,6 +79,18 @@ IT Undergraduate | Full Stack Developer | UI/UX Enthusiast
 
 ---
 
-## 💡 NOTE
+## ✨ Visitor Count
 
-> 🚀 “Code. Learn. Build. Repeat.”
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ullihinigimhani-oss&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+  
+> 🚀 "Code. Learn. Build. Repeat."
+
+</p>
