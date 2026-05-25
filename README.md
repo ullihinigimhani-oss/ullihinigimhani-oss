@@ -53,15 +53,13 @@ Software Engineering Undergraduate | Mobile App Developer | AI/ML Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ullihinigimhani-oss&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ullihinigimhani-oss&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullihinigimhani-oss&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ullihinigimhani-oss&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullihinigimhani-oss&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ullihinigimhani-oss&theme=tokyonight"/>
 </p>
 
 ---
@@ -69,7 +67,7 @@ Software Engineering Undergraduate | Mobile App Developer | AI/ML Enthusiast
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ullihinigimhani-oss&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ullihinigimhani-oss&theme=radical&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -89,7 +87,7 @@ Software Engineering Undergraduate | Mobile App Developer | AI/ML Enthusiast
 ## ✨ Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ullihinigimhani-oss&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ullihinigimhani-oss&label=Profile%20Views&color=blueviolet&style=flat"/>
 </p>
 
 ---
