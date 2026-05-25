@@ -1,6 +1,6 @@
 <!-- 🔥 TOP BANNER -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
+  <img src="https://raw.githubusercontent.com/ullihinigimhani-oss/ullihinigimhani-oss/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Lihini</h1>
@@ -61,11 +61,11 @@ IT Undergraduate | Full Stack Developer | UI/UX Enthusiast
 
 <p align="center">
 
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://instagram.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://linkedin.com/in/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
