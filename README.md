@@ -3,22 +3,29 @@
   <img src="https://raw.githubusercontent.com/ullihinigimhani-oss/ullihinigimhani-oss/main/banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Lihini</h1>
+<h1 align="center">Hi 👋, I'm Lihini Gimhani</h1>
 
 <h3 align="center">
-IT Undergraduate | Full Stack Developer | UI/UX Enthusiast
+Software Engineering Undergraduate | Mobile App Developer | AI/ML Enthusiast
 </h3>
+
+<p align="center">
+🚀 Full-Stack Development • 📱 Mobile Apps • ☁️ Cloud & Serverless • 🤖 AI/ML
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 IT Undergraduate (SLIIT)
-- 💻 Passionate about Web Development
-- 🌱 Currently learning React & Spring Boot
+- 🎓 Software Engineering Undergraduate at SLIIT
+- 📱 Passionate about Mobile Application Development
+- 💻 Full-Stack Developer (MERN Stack)
+- ☁️ Exploring AWS Cloud & Serverless Technologies
+- 🤖 Currently learning AI/ML & Intelligent Systems
+- 🌱 Learning Flutter, Kotlin, React & Spring Boot
+- 🎨 Interested in UI/UX Designing
 - 🏋️ Fitness & Gym Enthusiast
-- 🎨 UI/UX Design Lover
-- 🔥 Always learning new tech
+- 🔥 Love building clean and scalable applications
 
 ---
 
@@ -27,12 +34,16 @@ IT Undergraduate | Full Stack Developer | UI/UX Enthusiast
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
@@ -67,11 +78,7 @@ IT Undergraduate | Full Stack Developer | UI/UX Enthusiast
 
 <p align="center">
 
-<a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/lihini-gimhani/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -82,15 +89,26 @@ IT Undergraduate | Full Stack Developer | UI/UX Enthusiast
 ## ✨ Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ullihinigimhani-oss&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ullihinigimhani-oss&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
-## 💡 Quote
+## 💡 Current Focus
+
+```txt
+📱 Mobile Application Development
+🤖 Artificial Intelligence & Machine Learning
+☁️ AWS Cloud & Serverless Architecture
+🚀 Building Scalable Full-Stack Applications
+```
+
+---
+
+## ✨ Quote
 
 <p align="center">
-  
+
 > 🚀 "Code. Learn. Build. Repeat."
 
 </p>
