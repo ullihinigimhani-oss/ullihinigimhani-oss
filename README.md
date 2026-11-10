@@ -1,50 +1,132 @@
-<!-- Profile README — clean, professional, GitHub native --><div align="center">Lihini Gimhani
-Software Engineering Undergraduate · Full-Stack Developer
-Building reliable web applications, exploring mobile development and cloud technologies.
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ullihinigimhani-oss/ullihinigimhani-oss/main/banner.png" alt="Lihini Gimhani Banner" width="100%" />
+</p>
 
+<h1 align="center">Hi, I'm Lihini Gimhani 👋</h1>
+<h3 align="center">Software Engineering Undergraduate | Full-Stack Developer</h3>
 
+<p align="center">
+  Building reliable web applications, exploring mobile development, and growing in cloud technologies.
+</p>
 
-</div>About
-I'm a BSc (Hons) Information Technology (Software Engineering) undergraduate at SLIIT and a former Full Stack Developer Intern at Ceylon X Corporation. I enjoy creating practical software, from user interfaces to REST API integrations and database-driven systems.
-- Experience: React.js, Node.js, Express.js, REST APIs and enterprise HRM/CRM workflows
-- Currently exploring: React Native, AWS serverless services and AI/ML
-- Career interests: Junior / Associate Software Engineer and full-stack development roles
-Experience
-Full Stack Developer Intern · Ceylon X Corporation
-Jan 2026 – Jul 2026
-- Contributed to 3S HRM and Celcius CRM applications, including responsive UI development and API integration.
-- Developed reusable React components; worked with Node.js, Express.js and relational databases.
-- Debugged frontend, validation and API issues using browser developer tools and Postman.
-- Collaborated in Agile workflows using Git/GitHub and team progress meetings.
-Selected Projects
-Project	Overview	Stack
-ResQ1	Disaster early-warning and emergency response mobile app concept	React Native
-Wildlife Conservation System	Field incident reporting, patrol support and conservation monitoring concept	React Native
-MediReach	Healthcare management with CRUD and database integration	React, Node.js, Express, MySQL
-Arogya	Distributed healthcare channeling system using microservices concepts	MERN, Docker, Kubernetes
-ROOHUB	Roommate discovery and management platform	React, Node.js, Express, MongoDB
+<p align="center">
+  <a href="https://github.com/ullihinigimhani-oss">GitHub</a> •
+  <a href="https://www.linkedin.com/in/lihini-gimhani/">LinkedIn</a> •
+  <a href="mailto:ul.lihinigimhani@gmail.com">Email</a>
+</p>
 
+---
 
-Some academic and internship projects may be private or not published on this account.
-Technical Skills
-Languages: Java · JavaScript · Python · C# · Kotlin · SQL
-Frontend & Mobile: React · Next.js · React Native · Flutter · HTML/CSS · Bootstrap
-Backend: Node.js · Express · Spring Boot · ASP.NET Core · REST APIs
-Databases: MySQL · PostgreSQL · MongoDB · Firebase
-Cloud & Tools: AWS · Docker · Kubernetes · Git/GitHub · Postman · Figma
-Certifications & Learning
-AWS Training & Certification (2025)
-- Cloud Practitioner Essentials
+## 🚀 About Me
+
+- 🎓 Software Engineering undergraduate at **SLIIT**
+- 💼 Former **Full Stack Developer Intern** at **Ceylon X Corporation**
+- 💻 Interested in **Full-Stack Development**, **Mobile App Development**, and **Cloud Technologies**
+- 🌱 Currently improving my skills in **React Native, Flutter, AWS, and Spring Boot**
+- 🤖 Exploring **AI/ML** and intelligent software systems
+- 🎯 Seeking opportunities to learn, collaborate, and build useful software
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern — Ceylon X Corporation  
+**Jan 2026 – Jul 2026**
+
+- Contributed to **3S HRM** and **Celcius CRM** applications
+- Built and improved responsive UI using **React.js, Vite, JavaScript, HTML, CSS, and Bootstrap**
+- Integrated frontend with backend APIs using **Node.js** and **Express.js**
+- Worked with **REST APIs**, debugging, validation, and database-driven workflows
+- Collaborated using **Git/GitHub** in an **Agile** development environment
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`Java` `JavaScript` `Python` `C#` `Kotlin` `SQL` `PHP`
+
+### Frontend
+`React.js` `Next.js` `HTML5` `CSS3` `Bootstrap` `JSP`
+
+### Backend
+`Node.js` `Express.js` `Spring Boot` `ASP.NET Core` `Java Servlets`
+
+### Mobile
+`React Native` `Flutter` `Android (Kotlin)`
+
+### Databases
+`MySQL` `PostgreSQL` `MongoDB` `Firebase`
+
+### Cloud & Tools
+`AWS` `Docker` `Kubernetes` `Git` `GitHub` `Postman` `Figma` `VS Code`
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 ResQ1 — Disaster Early Warning App
+Mobile application concept for disaster early warning, alerts, and emergency response support.  
+**Tech:** `React Native`
+
+### 🔹 Wildlife Conservation and Anti-Poaching Monitoring System
+Mobile conservation system concept for field reporting, patrol support, alerts, and wildlife monitoring.  
+**Tech:** `React Native`
+
+### 🔹 Arogya — Distributed Healthcare Channeling Platform
+Distributed healthcare platform using microservices and container-based deployment concepts.  
+**Tech:** `MERN` `Docker` `Kubernetes` `PostgreSQL`
+
+### 🔹 ROOHUB — Roommate Finding Platform
+Full-stack platform for roommate discovery and management workflows.  
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB`
+
+### 🔹 MediReach — Healthcare Management Platform
+Web-based healthcare management platform with CRUD operations and database integration.  
+**Tech:** `React.js` `Node.js` `Express.js` `MySQL`
+
+### 🔹 Personal Library Manager
+Desktop application to manage personal book collections and records.  
+**Tech:** `Java` `Java Swing` `MySQL`
+
+---
+
+## 📚 Education
+
+**Sri Lanka Institute of Information Technology (SLIIT)**  
+B.Sc. (Hons) in Information Technology  
+**Specialization:** Software Engineering  
+**Year:** 2023 – Present
+
+---
+
+## 🏅 Certifications
+
+- AWS Cloud Practitioner Essentials
 - AWS Lambda Foundations
 - Amazon API Gateway for Serverless Applications
 - Designing Event-Driven Architectures
-- AWS CDK, EventBridge, SNS, AppSync and Amazon Q Developer introductory courses
-University of Moratuwa — CODL (2023)
-Python for Beginners · Web Design for Beginners
-Education
-Sri Lanka Institute of Information Technology (SLIIT) · 2023–Present
-BSc (Hons) in Information Technology — Software Engineering
-<div align="center">Open to opportunities to learn, collaborate and build useful software.
+- AWS CDK Getting Started
+- Amazon EventBridge Getting Started
+- Amazon SNS Getting Started
+- AWS AppSync Getting Started
+- Amazon Q Developer Getting Started
+- Python for Beginners — University of Moratuwa
+- Web Design for Beginners — University of Moratuwa
 
-LinkedIn · Email · Repositories
-</div>
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lihini-gimhani/">LinkedIn</a><br/>
+  <a href="mailto:ul.lihinigimhani@gmail.com">ul.lihinigimhani@gmail.com</a><br/>
+  <a href="https://github.com/ullihinigimhani-oss">github.com/ullihinigimhani-oss</a>
+</p>
+
+---
+
+<p align="center">
+  <b>Code. Learn. Build. Repeat.</b>
+</p>
